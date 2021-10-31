@@ -1,16 +1,16 @@
 ---
-name: Tails Azimuth
+name: Mayas Salman
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
+occupation: Blockchain Developer
+company: Syndian
+email: mayassalman@gmail.com
 twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+linkedin: https://www.linkedin.com/in/mayassalman/
+github: https://github.com/mayassalman
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
-
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Full Stack Developer with expertise in Blockchain.
+I can realize the vision of your product.
+I am proficient with both Front-End and Back-End Development.
+Using React for Front-End and Node with Express for Back-End.
+Apart from this, I have experience in Blockchain Development with expertise in Ethereum.
